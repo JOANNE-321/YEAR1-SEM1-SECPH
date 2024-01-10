@@ -1,1 +1,4 @@
+REFLECTION
 
+
+Studying Digital Logic was similar to taking a look at how computers operate. We looked at codes, integers, and logic gates which is a type of decision-maker. In circuits, Boolean algebra makes these factors easier to understand. Combinational logic circuits solve issues quickly, whereas timers, latches, flip-flops, and counters serve as clocks and memory. Even though there were some challenging aspects, such as understanding sequential logic, and building digital circuits it made me feel accomplished. I can now understand how these fundamentals make up the structure of computers, and I'm excited to find out more about the practical uses for them.
